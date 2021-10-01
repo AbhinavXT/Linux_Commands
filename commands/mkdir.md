@@ -7,7 +7,6 @@ mkdir <options> 'folder-name'
 ```
 
 This creates a folder called folder-name in your current directory. options are optional
-```
 
 `mkdir` accepts 3 options:
 
