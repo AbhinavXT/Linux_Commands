@@ -40,6 +40,8 @@
 
 ### P
 
+[ping](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/ping.md)
+
 ### Q
 
 ### R
