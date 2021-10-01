@@ -3,12 +3,14 @@ This projectos a collection of linux commands and their usage
 ## How to contribute
 
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
+
 ![Screenshot from 2021-10-01 22-49-41](https://user-images.githubusercontent.com/56548922/135661426-212d2b42-d1e7-4802-b3e1-3f7a233316a5.png)
 
 
 ## Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon.
+
 ![Screenshot from 2021-10-01 22-51-22](https://user-images.githubusercontent.com/56548922/135661678-02abdf2d-2db2-42be-bcd1-c65a6093dfc6.png)
 
 
