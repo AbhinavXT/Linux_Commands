@@ -4,7 +4,8 @@
 ### B
 
 ### C
-
+[cd](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cd.md)
+[cat](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cat.md)
 ### D
 
 ### E
