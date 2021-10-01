@@ -1,54 +1,53 @@
-## A
+### A
 
-## B
+### B
 
-## C
+### C
 
-## D
+### D
 
-## E
+### E
 
-## F
+### F
 
-## G
+### G
 
-## H
+### H
 
-## I
+### I
 
-## J
+### J
 
-## K
+### K
 
-## A
+### L
 
-## L
 [ls](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/ls.md)
 
-## M
+### M
 
-## N
+### N
 
-## O
+### O
 
-## P
+### P
 
-## Q
+### Q
 
-## R
+### R
 
-## S
+### S
 
-## T
+### T
 
-## U
+### U
 
-## v
+### V
 
-## W
+### W
 
-## X
+### X
 
-## Y
+### Y
 
-## Z
+### Z
