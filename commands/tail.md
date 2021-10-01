@@ -1,8 +1,8 @@
-## head
+## tail 
 
 Description
 ```
-Head displays the last lines from file(s) given
+Tail displays the last lines from file(s) given
 ```
 To use head
 ```
