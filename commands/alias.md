@@ -2,7 +2,7 @@
 
 An alias lets you create a shortcut name for a command, file name, or any shell text.
 
-For example, you can create an alias for the `cd` command to reach a cretain folder in your system.
+For example, you can create an alias for the `cd` command to reach a certain folder in your system.
 
 ```
 alias cf='cd folder-name'
