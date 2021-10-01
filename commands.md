@@ -20,6 +20,9 @@
 
 ### H
 
+[head](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/head.md)
+
+
 ### I
 
 ### J
@@ -27,6 +30,8 @@
 ### K
 
 ### L
+
+[less](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/less.md)
 
 [ls](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/ls.md)
 
@@ -49,6 +54,8 @@
 ### S
 
 ### T
+
+[tail](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/tail.md)
 
 ### U
 
