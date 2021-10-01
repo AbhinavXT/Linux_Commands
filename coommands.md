@@ -1,9 +1,14 @@
 ### A
+
 [alias](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/alias.md)
 
 ### B
 
 ### C
+
+[cd](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cd.md)
+
+[cat](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cat.md)
 
 ### D
 
@@ -24,6 +29,12 @@
 ### L
 
 [ls](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/ls.md)
+
+### M
+
+[mkdir](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/mkdir.md)
+
+### N
 
 ### O
 
