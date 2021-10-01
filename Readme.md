@@ -3,12 +3,14 @@ This projectos a collection of linux commands and their usage
 ## How to contribute
 
 Fork this repository by clicking on the fork button on the top of this page. This will create a copy of this repository in your account.
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1632022983880/1cdrf-4y_.png)
+![Screenshot from 2021-10-01 22-49-41](https://user-images.githubusercontent.com/56548922/135661426-212d2b42-d1e7-4802-b3e1-3f7a233316a5.png)
+
 
 ## Clone the repository
 
 Now clone the forked repository to your machine. Go to your GitHub account, open the forked repository, click on the code button and then click the copy to clipboard icon.
-![image.png](https://cdn.hashnode.com/res/hashnode/image/upload/v1632023586276/2i0gB3t4X.png)
+![Screenshot from 2021-10-01 22-51-22](https://user-images.githubusercontent.com/56548922/135661678-02abdf2d-2db2-42be-bcd1-c65a6093dfc6.png)
+
 
 Open a terminal and run the following git command:
 
@@ -65,3 +67,10 @@ replacing <add-your-branch-name> with the name of the branch you created earlier
 ## Create a Pull Request
 
 If you go to your repository on GitHub, you'll see a `Compare & pull request` button.
+![Screenshot from 2021-10-01 22-59-49](https://user-images.githubusercontent.com/56548922/135662653-7d38ebb2-1caa-4afd-89e4-066f54e36826.png)
+
+Now submit the pull request.
+![Screenshot from 2021-10-01 23-03-03](https://user-images.githubusercontent.com/56548922/135663046-58455754-f140-4e47-9724-97c0d36556f4.png)
+
+Soon I'll review and merge all your changes into the master branch of this project. You will get a notification email once the changes have been merged.
+
