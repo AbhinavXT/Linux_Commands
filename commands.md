@@ -22,6 +22,8 @@
 
 ### G
 
+[git](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/git.md)
+
 ### H
 
 [head](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/head.md)
