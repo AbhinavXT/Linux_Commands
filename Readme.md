@@ -55,6 +55,7 @@ Filename: ls.md
 
 Add in commands.md: [ls](url-of-ls.md)
 ```
+You can also add more information about previously added commands by updating their files in `command` foldes
 
 ## Push changes to GitHub
 
