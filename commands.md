@@ -42,6 +42,8 @@
 
 [ping](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/ping.md)
 
+[pwd](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/pwd.md)
+
 ### Q
 
 ### R
