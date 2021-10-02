@@ -12,6 +12,8 @@
 
 [cp](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cp.md)
 
+[chmod](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/chmod.md)
+
 ### D
 
 ### E
@@ -76,6 +78,8 @@
 ### V
 
 ### W
+
+[whoami](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/whoami.md)
 
 ### X
 
