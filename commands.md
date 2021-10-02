@@ -10,6 +10,8 @@
 
 [cat](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cat.md)
 
+[cp](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cp.md)
+
 ### D
 
 ### E
