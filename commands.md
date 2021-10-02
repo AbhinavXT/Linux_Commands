@@ -63,6 +63,8 @@
 
 ### R
 
+- [rm](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/rm.md)
+
 ### S
 
 - [shutdown](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/shutdown.md)
