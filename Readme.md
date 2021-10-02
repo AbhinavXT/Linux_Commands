@@ -1,4 +1,4 @@
-This projectos a collection of linux commands and their usage
+This project is a collection of linux commands and their usage
 
 ## How to contribute
 
