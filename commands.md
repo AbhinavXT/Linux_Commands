@@ -1,34 +1,34 @@
 ### A
 
-[alias](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/alias.md)
+- [alias](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/alias.md)
 
 ### B
 
 ### C
 
-[cd](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cd.md)
+- [cd](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cd.md)
 
-[cat](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cat.md)
+- [cat](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cat.md)
 
-[cp](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cp.md)
+- [cp](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cp.md)
 
-[chmod](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/chmod.md)
+- [chmod](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/chmod.md)
 
 ### D
 
 ### E
 
-[echo](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/echo.md)
+- [echo](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/echo.md)
 
 ### F
 
 ### G
 
-[git](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/git.md)
+- [git](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/git.md)
 
 ### H
 
-[head](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/head.md)
+- [head](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/head.md)
 
 
 ### I
@@ -39,15 +39,15 @@
 
 ### L
 
-[less](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/less.md)
+- [less](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/less.md)
 
-[ls](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/ls.md)
+- [ls](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/ls.md)
 
-[lsof](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/lsof.md)
+- [lsof](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/lsof.md)
 
 ### M
 
-[mkdir](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/mkdir.md)
+- [mkdir](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/mkdir.md)
 
 ### N
 
@@ -55,9 +55,9 @@
 
 ### P
 
-[ping](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/ping.md)
+- [ping](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/ping.md)
 
-[pwd](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/pwd.md)
+- [pwd](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/pwd.md)
 
 ### Q
 
@@ -65,13 +65,15 @@
 
 ### S
 
-[shutdown](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/shutdown.md)
+- [shutdown](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/shutdown.md)
 
 ### T
 
-[touch](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/touch.md)
+- [touch](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/touch.md)
 
-[tail](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/tail.md)
+- [tail](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/tail.md)
+
+- [tar](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/tar.md)
 
 ### U
 
@@ -79,7 +81,7 @@
 
 ### W
 
-[whoami](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/whoami.md)
+- [whoami](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/whoami.md)
 
 ### X
 
