@@ -51,6 +51,7 @@
 ### S
 
 ### T
+[touch](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/touch.md)
 
 ### U
 
