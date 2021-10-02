@@ -1,4 +1,4 @@
-# CP
+# cp
 
 This command is used to copy a file from one directory to another using CLI.
 
