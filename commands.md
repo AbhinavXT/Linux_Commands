@@ -29,6 +29,7 @@
 ### L
 
 [ls](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/ls.md)
+
 [lsof](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/lsof.md)
 
 ### M
