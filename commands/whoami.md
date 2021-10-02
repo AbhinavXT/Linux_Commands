@@ -12,9 +12,11 @@ whoami
 ```
 output
 ```
-shooter
+your-userId
 ```
 
-options
+options:
+
 `--help` | display this help and exit
+
 `--version` | output version information and exit
