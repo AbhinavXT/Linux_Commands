@@ -61,7 +61,10 @@
 
 ### S
 
+[shutdown](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/shutdown.md)
+
 ### T
+
 [touch](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/touch.md)
 
 [tail](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/tail.md)
