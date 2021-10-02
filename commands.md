@@ -16,6 +16,8 @@
 
 ### E
 
+[echo](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/echo.md)
+
 ### F
 
 ### G
