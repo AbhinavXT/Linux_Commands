@@ -81,6 +81,8 @@
 
 ### U
 
+- [uname](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/uname.md)
+
 ### V
 
 ### W
