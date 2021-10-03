@@ -26,6 +26,8 @@
 
 - [git](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/git.md)
 
+- [grep](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/grep.md)
+
 ### H
 
 - [head](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/head.md)
@@ -34,6 +36,8 @@
 ### I
 
 - [init](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/init.md)
+
+- [ifconfig](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/ifconfig.md)
 
 ### J
 
