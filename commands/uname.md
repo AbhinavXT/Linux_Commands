@@ -1,6 +1,6 @@
 # uname
 
-## The uname tool is most commonly used to determine the processor architecture, the system hostname and the version of the kernel running on the system.
+The uname tool is most commonly used to determine the processor architecture, the system hostname and the version of the kernel running on the system.
 
 **Print all the system information**
 
