@@ -55,6 +55,8 @@
 
 - [mkdir](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/mkdir.md)
 
+- [mv](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/mv.md)
+
 ### N
 
 - [nslookup](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/nslookup.md)
