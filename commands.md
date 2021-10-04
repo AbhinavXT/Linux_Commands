@@ -76,6 +76,7 @@
 ### S
 
 - [shutdown](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/shutdown.md)
+- [sudo](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/sudo.md)
 
 ### T
 
