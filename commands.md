@@ -57,6 +57,8 @@
 
 ### N
 
+- [nslookup](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/nslookup.md)
+
 ### O
 
 ### P
