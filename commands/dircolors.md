@@ -1,9 +1,8 @@
-## Direcolors.md
+## direcolors.md
 
-Description
-```
  Set colors for ‘ls’ by altering the LS_COLORS environment variable.
-```
+
+
 To use Direcolors
 ```
 dircolors [OPTION]... [FILE]
