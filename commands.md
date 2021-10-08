@@ -16,6 +16,8 @@
 
 ### D
 
+- [dircolors](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/dircolors.md)
+
 ### E
 
 - [echo](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/echo.md)
