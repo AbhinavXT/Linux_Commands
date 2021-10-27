@@ -34,6 +34,8 @@
 
 - [head](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/head.md)
 
+- [hostname](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/hostname.md)
+
 
 ### I
 
