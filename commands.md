@@ -79,6 +79,8 @@
 
 - [rm](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/rm.md)
 
+- [rmdir](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/rmdir.md)
+
 ### S
 
 - [shutdown](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/shutdown.md)
