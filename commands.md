@@ -48,6 +48,7 @@
 ### J
 
 ### K
+- [kill](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/kill.md)
 
 ### L
 
@@ -108,6 +109,8 @@
 ### W
 
 - [whoami](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/whoami.md)
+
+- [wget](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/wget.md)
 
 ### X
 
