@@ -113,6 +113,7 @@
 - [wget](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/wget.md)
 
 ### X
+- [xargs](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/xargs.md)
 
 ### Y
 
