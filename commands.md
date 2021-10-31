@@ -117,3 +117,4 @@
 ### Y
 
 ### Z
+- [zip](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/zip.md)
