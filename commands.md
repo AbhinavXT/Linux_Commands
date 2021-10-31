@@ -59,6 +59,8 @@
 
 ### M
 
+- [man](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/man.md)
+- 
 - [mkdir](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/mkdir.md)
 
 - [mv](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/mv.md)
