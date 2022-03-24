@@ -2,9 +2,9 @@
 
 - [alias](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/alias.md)
 
-### B
+###
 
-### C
+###
 
 - [cd](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/cd.md)
 
