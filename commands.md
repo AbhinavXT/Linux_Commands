@@ -1,4 +1,4 @@
-### A
+### A you should allow me to change man.
 
 [alias](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/alias.md)
 
