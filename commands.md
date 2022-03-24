@@ -2,7 +2,7 @@
 
 - [alias](https://github.com/AbhinavXT/Linux_Commands/blob/main/commands/alias.md)
 
-### B
+###
 
 ### C
 
